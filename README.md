@@ -14,7 +14,7 @@ This repository contains the documentation and results for the Week 3 cybersecur
 3.  **Executing the Attack:** [Explain the command you used. e.g., "Ran the following command using John the Ripper: `john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt hash.txt`"]
 4.  **Cracking the Password:** [e.g., "Successfully recovered the plaintext password within 5 minutes."]
 ### 1. The Target Hash
-![Initial Hash](hash.png)
+![Initial Hash](Screenshot 2026-09-21 161728.jng)
 
 ### 2. Running the Cracking Tool
 ![Cracking Process](cracking.png)
