@@ -18,7 +18,7 @@ This repository contains the documentation and results for the Week 3 cybersecur
 Below are the screenshots demonstrating the process and the final result:
 
 ### 1. The Target Hash
-![Initial Hash](screenshots/IMG-20260921-WA0002.jpg)
+![Initial Hash](Screenshot 2026-09-21 161728.png)
 *(Describe what this image shows)*
 
 ### 2. Running the Cracking Tool
