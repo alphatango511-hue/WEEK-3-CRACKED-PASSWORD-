@@ -13,21 +13,15 @@ This repository contains the documentation and results for the Week 3 cybersecur
 2.  **Identifying Hash Type:** [e.g., "Identified the hash as an MD5 hash."]
 3.  **Executing the Attack:** [Explain the command you used. e.g., "Ran the following command using John the Ripper: `john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt hash.txt`"]
 4.  **Cracking the Password:** [e.g., "Successfully recovered the plaintext password within 5 minutes."]
-
-## 📸 Screenshots
-Below are the screenshots demonstrating the process and the final result:
-
 ### 1. The Target Hash
-![Initial Hash](Screenshot 2026-09-21 161728.png)
-*(Describe what this image shows)*
+![Initial Hash](hash.png)
 
 ### 2. Running the Cracking Tool
-![Cracking Process](screenshots/IMG-20260921-WA0003.jpg)
-*(Describe what this image shows)*
+![Cracking Process](cracking.png)
 
 ### 3. Password Successfully Cracked
-![Final Result](screenshots/IMG-20260921-WA0004.jpg)
-*(Describe what this image shows)*
+![Final Result](result.png)
+ 
 
 ## 🧠 Conclusion & Lessons Learned
 This assignment demonstrated the importance of using strong, complex passwords. Weak passwords that exist in common wordlists (like rockyou.txt) can be cracked in seconds. To mitigate this, organizations should enforce multi-factor authentication (MFA) and complex password policies.
